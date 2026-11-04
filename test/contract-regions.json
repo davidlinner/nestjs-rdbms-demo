@@ -1,0 +1,23 @@
+[
+  "health-raw-pg",
+  "datasource-config",
+  "pool-options",
+  "entity-student",
+  "entity-lecturer",
+  "entity-course",
+  "module-entities",
+  "students-service-basic",
+  "entity-student-card",
+  "relation-lecturer-courses",
+  "relation-lecturer-courses-inverse",
+  "entity-enrollment",
+  "relation-student-enrollments",
+  "repo-find-with-relations",
+  "qb-students-by-course",
+  "qb-enrollment-count",
+  "qb-pagination",
+  "qb-report-courses",
+  "datasource-cli",
+  "migration-initial-schema",
+  "tx-change-course"
+]
